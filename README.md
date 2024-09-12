@@ -1,6 +1,6 @@
 I am Imaan, a web developer in the making and a high school student📚. 
 I like to do things that I enjoy and that benefit the world
-and me as an individual. 
+and me as an individual.  
 
 🌱 Currently Learning:
 Front End Development 🤖
