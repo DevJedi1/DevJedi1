@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Imaan
-- 👀 Im looking to learn: Web development and a few side skills
-- 📫 How to reach me Email: xcrimson972@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play piano in my free time
+I am Imaan, a web developer in the making and a high school student📚. I like to do things that I enjoy and that benefit the world and me as an individual. 
 
 <!---
 DevJedi1/DevJedi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
